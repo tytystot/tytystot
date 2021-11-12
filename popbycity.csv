@@ -1,0 +1,501 @@
+﻿city,country,pop
+Lagos,Nigeria,9000000
+Kinshasa,Republic of the Congo,7785965
+Cairo,Egypt,7734614
+Alexandria,Egypt,3811516
+Abidjan,Ivory Coast,3677115
+Kano,Nigeria,3626068
+Ibadan,Nigeria,3565108
+Cape Town,South Africa,3433441
+Casablanca,Morocco,3144909
+Durban,South Africa,3120282
+Luanda,Angola,2776168
+Addis Ababa,Ethiopia,2757729
+Nairobi,Kenya,2750547
+Dar es Salaam,Tanzania,2698652
+Mogadishu,Somalia,2587183
+Dakar,Senegal,2476400
+Giza,Egypt,2443203
+Johannesburg,South Africa,2026469
+Algiers,Algeria,1977663
+Khartoum,Sudan,1974647
+Accra,Ghana,1963264
+Camayenne,Guinea,1871242
+Conakry,Guinea,1767200
+Soweto,South Africa,1695047
+Rabat,Morocco,1655753
+Pretoria,South Africa,1619438
+Kaduna,Nigeria,1582102
+Harare,Zimbabwe,1542813
+Kumasi,Ghana,1468609
+Antananarivo,Madagascar,1391433
+Lubumbashi,Republic of the Congo,1373770
+Kampala,Uganda,1353189
+Douala,Cameroon,1338082
+Yaounde,Cameroon,1299369
+Bamako,Mali,1297281
+Brazzaville,DR Congo,1284609
+Lusaka,Zambia,1267440
+Omdurman,Sudan,1200000
+Maputo,Mozambique,1191613
+Tripoli,Libya,1150989
+Port Harcourt,Nigeria,1148665
+Benin City,Nigeria,1125058
+Maiduguri,Nigeria,1112449
+Ouagadougou,Burkina Faso,1086505
+Zaria,Nigeria,975153
+Port Elizabeth,South Africa,967677
+Fes,Morocco,964891
+Monrovia,Liberia,939524
+Sale,Morocco,903485
+Abobo,Ivory Coast,900000
+Aba,Nigeria,897560
+Mbuji-Mayi,Republic of the Congo,874761
+Pikine,Senegal,874062
+Marrakesh,Morocco,839296
+Jos,Nigeria,816824
+Ilorin,Nigeria,814192
+Freetown,Sierra Leone,802639
+Mombasa,Kenya,799668
+Boumerdas,Algeria,786499
+Cotonou,Benin,780000
+Niamey,Niger,774235
+Pietermaritzburg,South Africa,750845
+Lome,Togo,749700
+Kigali,Rwanda,745261
+Oyo,Nigeria,736072
+N'Djamena,Chad,721081
+Bulawayo,Zimbabwe,699385
+Agadir,Morocco,698310
+Tunis,Tunisia,693210
+Enugu,Nigeria,688862
+Tangier,Morocco,688356
+Matola,Mozambique,675422
+Nouakchott,Mauritania,661400
+Pointe-Noire,DR Congo,659084
+Benghazi,Libya,650629
+Lilongwe,Malawi,646750
+Oran,Algeria,645984
+Tebessa,Algeria,634332
+Djibouti,Djibouti,623891
+Benoni,South Africa,605344
+Abeokuta,Nigeria,593100
+Abuja,Nigeria,590400
+Blantyre,Malawi,584877
+Libreville,Gabon,578156
+Bouake,Ivory Coast,567481
+Nyala,Sudan,565734
+Asmara,Eritrea,563930
+Sokoto,Nigeria,563861
+Onitsha,Nigeria,561066
+Meknes,Morocco,545705
+Bangui,Central African Republic,542393
+Kisangani,Republic of the Congo,539158
+Port Said,Egypt,538378
+Warri,Nigeria,536023
+Ebute Ikorodu,Nigeria,535619
+Beira,Mozambique,530604
+Touba,Senegal,529176
+Tembisa,South Africa,511655
+Port Sudan,Sudan,489725
+Suez,Egypt,488125
+Masina,Republic of the Congo,485167
+Okene,Nigeria,479178
+East London,South Africa,478676
+Hargeysa,Somalia,477876
+Vereeniging,South Africa,474681
+Kananga,Republic of the Congo,463546
+Bloemfontein,South Africa,463064
+Calabar,Nigeria,461796
+Constantine,Algeria,450097
+Juba,South Sudan,450000
+Boksburg,South Africa,445168
+Garoua,Cameroon,436899
+Mwanza,Tanzania,436801
+Uyo,Nigeria,436606
+Kousseri,Cameroon,435547
+Katsina,Nigeria,432149
+Welkom,South Africa,431944
+Al Mahallah al Kubra,Egypt,431052
+Ado-Ekiti,Nigeria,424340
+Likasi,Republic of the Congo,422414
+Luxor,Egypt,422407
+Akure,Nigeria,420594
+Asyut,Egypt,420585
+Al Mansurah,Egypt,420195
+Kolwezi,Republic of the Congo,418000
+Oujda-Angad,Morocco,405253
+Tanda,Egypt,404901
+Newcastle,South Africa,404838
+Zanzibar,Tanzania,403658
+Kassala,Sudan,401477
+Kitwe,Zambia,400914
+Al Hoceima,Morocco,395644
+Ndola,Zambia,394518
+Bamenda,Cameroon,393835
+El Obeid,Sudan,393311
+Nampula,Mozambique,388526
+Bissau,Guinea-Bissau,388028
+Misratah,Libya,386120
+Abomey-Calavi,Benin,385755
+N'dalatando,Angola,383100
+Krugersdorp,South Africa,378821
+Kenitra,Morocco,366570
+Al Qadarif,Sudan,363945
+Tamale,Ghana,360579
+Bobo-Dioulasso,Burkina Faso,360106
+Diepsloot,South Africa,350000
+Kosti,Sudan,345068
+Arusha,Tanzania,341136
+Chitungwiza,Zimbabwe,340360
+Serekunda,Gambia,340000
+Randburg,South Africa,337053
+Wad Medani,Sudan,332714
+Bujumbura,Burundi,331700
+Tetouan,Morocco,326261
+Thies,Senegal,320000
+Maroua,Cameroon,319941
+Bauchi,Nigeria,316149
+Temara,Morocco,313510
+Ikeja,Nigeria,313196
+Botshabelo,South Africa,309714
+Biskra,Algeria,307987
+Al Fayyum,Egypt,306393
+Brakpan,South Africa,305692
+Winejok,South Sudan,300000
+Makurdi,Nigeria,292645
+Minna,Nigeria,291905
+Mbeya,Tanzania,291649
+Bafoussam,Cameroon,290768
+Setif,Algeria,288461
+Safi,Morocco,288163
+Zagazig,Egypt,285097
+Ismailia,Egypt,284813
+Batna,Algeria,280798
+Efon-Alaaye,Nigeria,279319
+Ilesa,Nigeria,277904
+Sfax,Tunisia,277278
+Owo,Nigeria,276574
+Bab Ezzouar,Algeria,275630
+Mokolo,Cameroon,275239
+Windhoek,Namibia,268132
+Tshikapa,Republic of the Congo,267462
+Kafr ad Dawwar,Egypt,267370
+El Daein,Sudan,264734
+Umuahia,Nigeria,264662
+Witbank,South Africa,262491
+Nakuru,Kenya,259903
+Ondo,Nigeria,257005
+Chimoio,Mozambique,256936
+Ikot Ekpene,Nigeria,254806
+Richards Bay,South Africa,252968
+El Fasher,Sudan,252609
+Thies Nones,Senegal,252320
+Dire Dawa,Ethiopia,252279
+Morogoro,Tanzania,250902
+Iwo,Nigeria,250443
+Gombe,Nigeria,250258
+Singa,Sudan,250000
+Jimeta,Nigeria,248148
+Vanderbijlpark,South Africa,246754
+Berbera,Somalia,242344
+Aswan,Egypt,241261
+Djougou,Benin,237040
+Qina,Egypt,235362
+Kismayo,Somalia,234852
+Porto-Novo,Benin,234168
+Centurion,South Africa,233386
+Takoradi,Ghana,232919
+Beni,Republic of the Congo,232000
+Ngaoundere,Cameroon,231357
+Marka,Somalia,230100
+Atani,Nigeria,230000
+Halwan,Egypt,230000
+Uitenhage,South Africa,228912
+Damanhur,Egypt,227943
+Al Minya,Egypt,227150
+Gusau,Nigeria,226857
+Huambo,Angola,226145
+Mubi,Nigeria,225705
+Bukavu,Republic of the Congo,225389
+Roodepoort,South Africa,225000
+Tanga,Tanzania,224876
+Nacala,Mozambique,224795
+Ikire,Nigeria,222160
+Eldoret,Kenya,218446
+Bertoua,Cameroon,218111
+Kisumu,Kenya,216479
+Daloa,Ivory Coast,215652
+Mek'ele,Ethiopia,215546
+Owerri,Nigeria,215038
+Shagamu,Nigeria,214558
+Nazret,Ethiopia,213995
+Tarhuna,Libya,210697
+Idku,Egypt,210678
+Sohag,Egypt,209419
+Ijebu-Ode,Nigeria,209175
+Gaborone,Botswana,208411
+Lobito,Angola,207932
+Annaba,Algeria,206570
+Toamasina,Madagascar,206373
+Edea,Cameroon,203149
+Atsiaman,Ghana,202932
+Al Khums,Libya,201943
+Ugep,Nigeria,200276
+New Cairo,Egypt,200000
+Az Zawiyah,Libya,200000
+Thika,Kenya,200000
+San-Pedro,Ivory Coast,196751
+Laayoune,Western Sahara,196331
+Yamoussoukro,Ivory Coast,194530
+Nnewi,Nigeria,193987
+Sidi Bel Abbes,Algeria,191769
+Zinder,Niger,191424
+Ise-Ekiti,Nigeria,190063
+Paarl,South Africa,190000
+Bani Suwayf,Egypt,189624
+Mwene-Ditu,Republic of the Congo,189177
+Kabwe,Zambia,188979
+Quelimane,Mozambique,188964
+Mohammedia,Morocco,187708
+Kikwit,Republic of the Congo,186991
+Springs,South Africa,186394
+Shibin al Kawm,Egypt,186345
+Antsirabe,Madagascar,186253
+Zawiya,Libya,186123
+Ad-Damazin,Sudan,186051
+Jamaame,Somalia,185270
+Mutare,Zimbabwe,184205
+Mbandaka,Republic of the Congo,184185
+Blida,Algeria,182447
+Carletonville,South Africa,182304
+Dodoma,Tanzania,180541
+Matadi,Republic of the Congo,180109
+Ila Orangun,Nigeria,179192
+Klerksdorp,South Africa,178921
+Tiaret,Algeria,178915
+Saki,Nigeria,178677
+Chlef,Algeria,178616
+Loum,Cameroon,177429
+Saint-Louis,Senegal,176000
+Mzuzu,Malawi,175345
+Bo,Sierra Leone,174354
+Bata,Equatorial Guinea,173046
+Midrand,South Africa,173009
+Kaolack,Senegal,172305
+Bida,Nigeria,171656
+Uvira,Republic of the Congo,170391
+Bahir Dar,Ethiopia,168899
+Bordj Bou Arreridj,Algeria,168346
+Ech Chettia,Algeria,167955
+Awka,Nigeria,167738
+Khouribga,Morocco,167673
+Ijero-Ekiti,Nigeria,167632
+Korhogo,Ivory Coast,167359
+Fianarantsoa,Madagascar,167227
+Banha,Egypt,167029
+Beni Mellal,Morocco,166399
+Kigoma,Tanzania,164268
+Inisa,Nigeria,164161
+Sousse,Tunisia,164123
+Bejaia,Algeria,164103
+Parakou,Benin,163753
+Maradi,Niger,163487
+Geneina,Sudan,162981
+Skikda,Algeria,162702
+Boma,Republic of the Congo,162521
+Suleja,Nigeria,162135
+Sapele,Nigeria,161686
+Malakal,South Sudan,160765
+Ziguinchor,Senegal,159778
+El Achir,Algeria,158333
+Talkha,Egypt,157737
+Moshi,Tanzania,156959
+Westonaria,South Africa,156831
+Souk Ahras,Algeria,156745
+Osogbo,Nigeria,156694
+Fes al Bali,Morocco,156000
+Malabo,Equatorial Guinea,155963
+Tema,Ghana,155782
+Kisi,Nigeria,155510
+Port Louis,Mauritius,155226
+Middelburg,South Africa,154706
+Mahajanga,Madagascar,154657
+Butembo,Republic of the Congo,154621
+Gandajika,Republic of the Congo,154425
+Djelfa,Algeria,154265
+Gondar,Ethiopia,153914
+Benguela,Angola,151226
+Vryheid,South Africa,150012
+Mascara,Algeria,150000
+Chingola,Zambia,148564
+Jijel,Algeria,148000
+Medea,Algeria,147707
+El Jadid,Morocco,147549
+Kalemie,Republic of the Congo,146974
+Gulu,Uganda,146858
+Gweru,Zimbabwe,146073
+Orkney,South Africa,145801
+Tabora,Tanzania,145292
+Sikasso,Mali,144786
+Kumba,Cameroon,144413
+Goma,Republic of the Congo,144124
+Teshi Old Town,Ghana,144013
+Tizi Ouzou,Algeria,144000
+Kafr ash Shaykh,Egypt,143970
+Bechar,Algeria,143382
+Kenema,Sierra Leone,143137
+Cape Coast,Ghana,143015
+Mallawi,Egypt,142504
+Kimberley,South Africa,142089
+Taza,Morocco,141890
+eMbalenhle,South Africa,141741
+Nigel,South Africa,140644
+Mpumalanga,South Africa,140121
+Gbongan,Nigeria,139485
+Man,Ivory Coast,139341
+Sekondi-Takoradi,Ghana,138872
+Ejigbo,Nigeria,138357
+Obuase,Ghana,137856
+Dikirnis,Egypt,137542
+Bhisho,South Africa,137287
+Saint-Denis,Reunion,137195
+Funtua,Nigeria,136811
+Igboho,Nigeria,136764
+Dese,Ethiopia,136056
+Kindu,Republic of the Congo,135698
+Buguma,Nigeria,135404
+Rabak,Sudan,135281
+Moundou,Chad,135167
+El Oued,Algeria,134699
+Ajdabiya,Libya,134358
+Ikirun,Nigeria,134240
+Abakaliki,Nigeria,134102
+Randfontein,South Africa,133654
+Okrika,Nigeria,133271
+Hawassa,Ethiopia,133097
+Idfu,Egypt,133000
+Nzerekore,Guinea,132728
+Tlemcen,Algeria,132341
+Al Ajaylat,Libya,130546
+Sinnar,Sudan,130122
+Relizane,Algeria,130094
+Mostaganem,Algeria,130000
+Sabha,Libya,130000
+Baidoa,Somalia,129839
+Bimbo,Central African Republic,129655
+Ouargla,Algeria,129402
+Tete,Mozambique,129316
+Nador,Morocco,129260
+Bilbays,Egypt,129211
+Arish,Egypt,128855
+El Eulma,Algeria,128351
+Jimma,Ethiopia,128306
+Al Manaqil,Sudan,128297
+Jirja,Egypt,128250
+Sirte,Libya,128123
+Divo,Ivory Coast,127867
+Worcester,South Africa,127597
+Saida,Algeria,127497
+Wau,South Sudan,127384
+Xai-Xai,Mozambique,127366
+Amaigbo,Nigeria,127300
+Lafia,Nigeria,127236
+Isiro,Republic of the Congo,127076
+Songea,Tanzania,126449
+Al Jadid,Libya,126386
+Gashua,Nigeria,125817
+Bohicon,Benin,125092
+Agadez,Niger,124324
+Rustenburg,South Africa,124064
+Polokwane,South Africa,123749
+Potchefstroom,South Africa,123669
+Guelma,Algeria,123590
+Epworth,Zimbabwe,123250
+Bordj el Kiffan,Algeria,123246
+Gagnoa,Ivory Coast,123184
+Virginia,South Africa,122502
+Brits,South Africa,122497
+Alberton,South Africa,121536
+Musoma,Tanzania,121119
+Tobruk,Libya,121052
+Mufulira,Zambia,120500
+Gereida,Sudan,120000
+Maxixe,Mozambique,119868
+Kairouan,Tunisia,119794
+Modakeke,Nigeria,119529
+Lira,Uganda,119323
+Settat,Morocco,119082
+Mandimba,Mozambique,118922
+Ain Oussera,Algeria,118687
+Maseru,Lesotho,118355
+Malindi,Kenya,118265
+Bandundu,Republic of the Congo,118211
+Bama,Nigeria,118121
+Ilobu,Nigeria,118089
+Sokode,Togo,117811
+Jalingo,Nigeria,117757
+Gemena,Republic of the Congo,117639
+Nkongsamba,Cameroon,117063
+Kindia,Guinea,117062
+Khenchela,Algeria,117000
+Okigwe,Nigeria,115499
+Toliara,Madagascar,115319
+Bizerte,Tunisia,115268
+Kankan,Guinea,114009
+Laghouat,Algeria,113872
+Offa,Nigeria,113830
+Cuito,Angola,113624
+Luanshya,Zambia,113365
+Praia,Cape Verde,113364
+Esuk Oron,Nigeria,112033
+Iringa,Tanzania,111820
+Beau Bassin-Rose Hill,Mauritius,111355
+Mbouda,Cameroon,111320
+Nsukka,Nigeria,111017
+Nguru,Nigeria,111014
+Hadejia,Nigeria,110753
+Manzini,Eswatini,110537
+Nelspruit,South Africa,110159
+Gabes,Tunisia,110075
+Ressano Garcia,Mozambique,110000
+Vacoas,Mauritius,110000
+Zliten,Libya,109972
+Lichinga,Mozambique,109839
+Kandi,Benin,109701
+Phalaborwa,South Africa,109468
+Larache,Morocco,109294
+Ijebu-Igbo,Nigeria,109261
+Livingstone,Zambia,109203
+Port-Gentil,Gabon,109163
+Ksar El Kebir,Morocco,108753
+Pemba,Mozambique,108737
+Uromi,Nigeria,108608
+Katumba,Tanzania,108558
+Mopti,Mali,108456
+Birnin Kebbi,Nigeria,108164
+An Nuhud,Sudan,108008
+Atbara,Sudan,107930
+Shinyanga,Tanzania,107362
+Ilebo,Republic of the Congo,107093
+Khemisset,Morocco,106991
+Al Hawamidiyah,Egypt,106841
+Pindiga,Nigeria,106322
+Ain Beida,Algeria,105765
+Azare,Nigeria,105687
+Baraki,Algeria,105402
+Queenstown,South Africa,105309
+Bishoftu,Ethiopia,104215
+Kara,Togo,104207
+Abengourou,Ivory Coast,104020
+Kroonstad,South Africa,103992
+Ed Damer,Sudan,103941
+Dolisie,DR Congo,103894
+Nkpor,Nigeria,103733
+Bilqas,Egypt,103596
+Ikere-Ekiti,Nigeria,103054
+Lafiagi,Nigeria,102779
+Lubango,Angola,102541
+Sarh,Chad,102528
+Sabratah,Libya,102038
+Disuq,Egypt,102037
